@@ -1,4 +1,4 @@
-# Getting Started
+# Getting Started - Marc huhu
 Install the dependencies and run the project
 ```
 npm install
